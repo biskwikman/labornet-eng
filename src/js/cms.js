@@ -19,5 +19,5 @@ CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.registerPreviewTemplate("footer", FooterPreview);
-CMS.registerLocale('jp', jp);
+CMS.registerLocale('ja', ja);
 CMS.init();
